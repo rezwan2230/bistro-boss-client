@@ -1,0 +1,8 @@
+.featured-item{
+    background-image: url('../../../assets/home/featured.jpg');
+    background-position: 50%;
+    background-blend-mode: color;
+    background-color: rgba(0, 0, 0, 0.582);
+    background-size: cover;
+    
+}
